@@ -1,5 +1,6 @@
 # Study360RePlugin
-360RePlugin基本使用，博客有详解
+360RePlugin基本使用，博客有详解:[https://blog.csdn.net/AlpinistWang/article/details/80204449](https://blog.csdn.net/AlpinistWang/article/details/80204449)
+
 
 360RePlugin是360公司推出的插件化框架
 
